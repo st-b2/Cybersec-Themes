@@ -149,16 +149,15 @@
 
 | Чит-лист | Описание |
 | :--- | :--- |
-| **[Nmap Cheat Sheet](./cheatsheets/nmap.md)** | Все флаги и техники сканирования портов. |
-| **[SQL Injection](./cheatsheets/sqli.md)** | Полезные нагрузки для обхода аутентификации и дампы БД. |
-| **[Reverse Shells](./cheatsheets/shells.md)** | Шпаргалка для получения обратного шелла на разных ОС (Python, Bash, Powershell). |
-| **[Metasploit Framework](./cheatsheets/metasploit.md)** | Основные команды для работы с MSF консолью. |
+| **[Nmap Cheat Sheet](./cheatsheets/nmap.md)** | Флаги и техники сканирования портов. |
+| **[Osint Cheat Sheet](./cheatsheets/osint.md)** | Команды и техники поиска информации. |
+| **[Reverse Shells](./cheatsheets/reverse-shells.md)** | Шпаргалка для получения обратного шелла на разных ОС (Python, Bash, Powershell). |
 | **[Linux Commands](./cheatsheets/linux.md)** | Команды для просмотра логов, прав доступа и процессов. |
 | **[Windows Pentesting](./cheatsheets/windows.md)** | Основные команды для AD и Windows-среды. |
 
 ---
 
-## 🛠️ Инструменты и методологии
+## 🛠️ Инструменты и методологии [В РАЗРАБОТКЕ]
 
 В этом разделе — краткие гайды по настройке и использованию топовых инструментов пентестера (на основе книг из коллекции):
 
