@@ -179,32 +179,37 @@
 ├── 📁 books/
 │   ├── 📁 kali-linux/
 │   │   ├── Изучаем_Kali_Linux.pdf
+|   |   |   ...
 │   │   └── Взлом_Wi-Fi_с_помощью_Kali_Linux_2024.pdf
 │   ├── 📁 python/
 │   │   ├── Python_глазами_хакера.pdf
+|   |   |   ...
 │   │   └── Hacking_with_Python.pdf
 │   ├── 📁 web-api/
 │   │   ├── Взлом_API.pdf
+|   |   |   ...
 │   │   └── Основы_веб_хакинга.pdf
 │   ├── 📁 active-directory/
+|   |   |   ...
 │   │   └── Атаки_на_Active_Directory.pdf
 │   ├── 📁 osint-anonymity/
 │   │   ├── Аноним._Книга.pdf
+|   |   |   ...
 │   │   └── Linux_for_OSINT.pdf
 │   └── 📁 methodologies/
 │       ├── 1_методика.pdf
 │       ├── 2_интернет-разведка.pdf
+|       |   ...
 │       └── CEH_Study_Guide.pdf
 │
 ├── 📁 cheatsheets/
 │   ├── nmap.md
-│   ├── sql-injection.md
+|   |   ...
 │   └── reverse-shells.md
 │
 ├── 📁 tools/
-│   ├── nmap-scripts/
+│   ├── ...
 │   └── burp-extensions/
 │
 └── 📁 anonymous/
-    ├── tor-setup.md
     └── osint-methods.md
